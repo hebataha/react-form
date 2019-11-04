@@ -1,0 +1,21 @@
+/* .app{ */
+    /* width:400px;
+  margin:0 auto;
+    text-align: center; */
+
+/* } */
+
+/* .login{ */
+  /* width:800px;
+  margin:0 auto;
+} */
+form{
+  text-align: center;
+}
+input{
+  margin:10px 0 !important
+}
+
+button{
+  background:#ddd !important
+}
